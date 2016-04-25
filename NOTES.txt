@@ -1,0 +1,7 @@
+css color pallete
+
+#558C89 //darker green
+#74AFAD //light green
+#D9853B //orange
+#ECECEA //gray (Gray-white)
+#3B3C36 //black olive
