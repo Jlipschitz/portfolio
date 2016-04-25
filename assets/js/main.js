@@ -15,4 +15,11 @@ $(document).ready(function () {
             }
         });
     }
+
+    setTimeout(function () {
+        $('.trans--grow').addClass('grow');
+    }, 275);
+    setTimeout(function () {
+        $('.trans--grow2').addClass('grow2');
+    }, 275);
 });

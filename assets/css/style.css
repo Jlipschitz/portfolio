@@ -1,5 +1,5 @@
 body {
-    background: #ECECEA;
+    background: ivory;
     margin: 0;
     padding: 0;
     border: 0;
@@ -7,31 +7,52 @@ body {
     font: inherit;
     vertical-align: baseline;
 }
+
 #intro {
-  margin-top:15%;
-  text-align:center;
-  
+    margin-top: 12%;
+    text-align: center;
 }
+
 .bio-txt-initial {
-  color:orange;
+    color: #D9853B;
+    font-size: 35px;
 }
+
 .bio-brackets {
-  color:#74AFAD;
+    color: #74AFAD;
+    font-size: 25px;
 }
+
 .img-circle {
     border-radius: 30%;
 }
+
 .picCollage {
-  display:block;
-  margin:0 auto;
-  float:left;
-}
-p .picCollage-text {
-    text-align: justify;
-    width: 200px;
-    text-align:center !important;
-}
-p {
-  text-align:center;
+    display: block;
+    margin: 0 auto;
+    float: left;
 }
 
+p.skillsText {
+    text-align: center;
+    color: #D9853B;
+}
+
+span.picCollage-text {
+    font-size: 25px;
+}
+
+div.picCollage {
+    padding: 10px;
+}
+
+.avatar {
+    float: left;
+    width: 300px;
+    margin-right: 10px;
+}
+
+#intro-text {
+    font-size: 1.9rem;
+    color: #558C89;
+}
